@@ -48,8 +48,13 @@ Current versions of all skills. Agents can compare against local versions to che
 | sms | 1.0.0 | 2026-05-21 |
 | social | 2.1.0 | 2026-06-10 |
 | video | 2.0.1 | 2026-05-18 |
+| yandex-seo | 1.0.0 | 2026-06-25 |
 
 ## Recent Changes
+
+### 2.5.0 (2026-06-25)
+
+- Added `yandex-seo` skill for продвижение в Яндексе и региональное (ГЕО) продвижение в России — выход в топ Яндекса по коммерческим, информационным и геозависимым запросам. Covers Yandex-specific ranking realities that differ from Google: heavy weight of поведенческие факторы (behavioral signals), the separate коммерческие факторы (commercial factors) formula, региональность, главное зеркало, Турбо-страницы, and the Баден-Баден / Минусинск / ПФ-накрутка filters. SKILL.md includes a Yandex-vs-Google comparison, ranking-algorithm context (МатриксНет / Палех / Королёв / YATI), a six-block prioritized framework, mandatory Yandex tools (Вебмастер, Метрика, Wordstat, Бизнес, Директ), and an explicit "никогда не делать" list (no ПФ-накрутка, no link buying, no doorways). References: `regional-promotion.md` (геозависимые vs геонезависимые запросы, region assignment in Вебмастер, multi-region поддомены/папки, Яндекс Бизнес/Карты, NAP, LocalBusiness schema); `commercial-factors.md` (seven commercial-factor groups with prioritization for e-commerce/services, СБП/Мир payment realities); `tools-and-channels.md` (Yandex tool deep-dive plus Рунет channels — Дзен, VK, Telegram, RuTube, маркетплейсы). Scope enforced via cross-references: `ai-seo` handles GEO in the Generative Engine Optimization sense, `seo-audit` the universal/Google audit, `schema` structured data.
 
 ### 2.4.1 (2026-06-10)
 

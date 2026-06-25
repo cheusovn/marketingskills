@@ -100,6 +100,7 @@ See each skill's **Related Skills** section for the full dependency map.
 | [sms](skills/sms/) | When the user wants to plan, build, or optimize SMS or MMS marketing — including welcome flows, abandoned cart texts,... |
 | [social](skills/social/) | When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram,... |
 | [video](skills/video/) | When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use... |
+| [yandex-seo](skills/yandex-seo/) | Когда пользователь хочет продвигать сайт в Яндексе, выйти в топ Яндекса, улучшить позиции в поиске Рунета или работать... |
 <!-- SKILLS:END -->
 
 ## Installation
